@@ -1,0 +1,14 @@
+# Environment
+env/
+__pycache__/
+*.pyc
+
+# Model files (optional if large)
+models/*.pkl
+
+# Streamlit cache
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
